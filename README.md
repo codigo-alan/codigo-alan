@@ -1,6 +1,8 @@
 ### Hi, my name is Alan Marcos 👋
 
-![banner image](https://github.com/codigo-alan/codigo-alan/blob/main/images/BannerGit.png)
+
+<img src="https://github.com/codigo-alan/codigo-alan/blob/main/images/BannerGit.png" width="300">
+
 
 ### About me
 
