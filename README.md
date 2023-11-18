@@ -1,6 +1,6 @@
 ### Hi, my name is Alan Marcos 👋
 
-<h1 align="center"><b>Hi , I'm Alan Marcos 👋</b></h1>
+<h1 align="center"><p>Hi , I'm Alan Marcos 👋</p></h1>
 
 
 <img src="https://github.com/codigo-alan/codigo-alan/blob/main/images/bannerGitv2.png" >
