@@ -3,6 +3,8 @@
 
 <img src="https://github.com/codigo-alan/codigo-alan/blob/main/images/bannerGitv2.png" >
 
+![Github Banner](https://github.com/codigo-alan/codigo-alan/blob/main/images/bannerGitv2.png)
+
 
 ### About me
 
