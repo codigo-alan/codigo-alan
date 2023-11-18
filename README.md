@@ -1,5 +1,7 @@
 ### Hi, my name is Alan Marcos 👋
 
+<p style="text-align:center;">Este es un texto centrado.</p>
+
 
 <img src="https://github.com/codigo-alan/codigo-alan/blob/main/images/bannerGitv2.png" style="border-radius: 50%;" >
 
