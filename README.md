@@ -21,6 +21,8 @@
 
 ### Skills
 
+---
+
 ![Static Badge](https://img.shields.io/badge/Android-%233DDC84?logo=android&labelColor=white)
 ![Static Badge](https://img.shields.io/badge/Compose_Multiplatform-%237F52FF?logo=kotlin&labelColor=white)
 
