@@ -1,7 +1,7 @@
 <h1 align="center"><p>Hi , I'm Alan Marcos 👋</p></h1>
 
 
-<img src="https://github.com/codigo-alan/codigo-alan/blob/main/images/bannerGitv2.png" >
+
 
 ![Github Banner](https://github.com/codigo-alan/codigo-alan/blob/main/images/bannerGitv2.png)
 
