@@ -21,7 +21,7 @@
 
 
 ![Static Badge](https://img.shields.io/badge/Django-%23092E20?logo=django&labelColor=black)
-![Static Badge](https://img.shields.io/badge/Ktor-%008FC7)  
+![Static Badge](https://img.shields.io/badge/Ktor-%23008FC7)  
 
 
 ![Static Badge](https://img.shields.io/badge/Kotlin-%237F52FF?logo=kotlin&labelColor=white) 
