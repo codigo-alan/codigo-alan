@@ -2,7 +2,13 @@
 
 ### About me
 
--✔️ Full-stack Developer:  
+✔️ Full-stack Developer:
+
+
                 ‧ Django, Flask, Ktor, Kotlin Multiplatform.
                 ‧ Angular, React.
--📲 Mobile Developer:
+
+                
+📲 Mobile Developer:
+
+Android native (Kotlin and Java)
