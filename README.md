@@ -1,5 +1,3 @@
-### Hi, my name is Alan Marcos 👋
-
 <h1 align="center"><p>Hi , I'm Alan Marcos 👋</p></h1>
 
 
