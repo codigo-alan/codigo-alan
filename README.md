@@ -9,14 +9,15 @@
 
 ✔️ Full-stack Developer:
 
-   - Django, Flask, Ktor, Kotlin Multiplatform.
+   - Django, Flask, Ktor.
 
    - Angular, React.
 
                 
 📲 Mobile Developer:
 
-   - Android native (Kotlin and Java)
+   - Android native (Kotlin and Java).
+   - Kotlin Multiplatform.
 
 ### Skills
 
